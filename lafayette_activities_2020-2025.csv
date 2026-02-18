@@ -1,0 +1,192 @@
+year,section,category,restriction,value
+2025,operating revenues,tuition and fees,without,106717000
+2025,operating revenues,government grants,without,2506000
+2025,operating revenues,private gifts and grants,without,7165000
+2025,operating revenues,endowment support,without,49418000
+2025,operating revenues,other,without,9170000
+2025,operating revenues,sales and services of auxiliaries,without,43839000
+2025,operating revenues,net assets released from restrictions,without,2450000
+2025,operating expenses,instruction,without,80170000
+2025,operating expenses,research,without,3422000
+2025,operating expenses,academic support,without,15021000
+2025,operating expenses,student services,without,45204000
+2025,operating expenses,institutional support,without,34628000
+2025,operating expenses,auxiliary services,without,40305000
+2025,nonoperating activities,long-term investment return,without,65638000
+2025,nonoperating activities,long-term investment return,with,54441000
+2025,nonoperating activities,endowment support,without,-49418000
+2025,nonoperating activities,endowment support,with,-891000
+2025,nonoperating activities,endowment capital and other donor restricted gifts,without,13287000
+2025,nonoperating activities,endowment capital and other donor restricted gifts,with,20590000
+2025,nonoperating activities,deferred giving net,without,219000
+2025,nonoperating activities,deferred giving net,with,769000
+2025,nonoperating activities,change in fair value of interest rate swap agreements,without,35000
+2025,nonoperating activities,change in postretirement benefits,without,-975000
+2025,nonoperating activities,loss on disposal of property and equipment,without,6000
+2025,nonoperating activities,other nonoperating loss,without,-19000
+2025,nonoperating activities,net assets released from restrictions,without,9473000
+2025,nonoperating activities,net assets released from restrictions,with,-11923000
+2025,totals,net assets at beginning of year,without,479782000
+2025,totals,net assets at beginning of year,with,893542000
+2025,totals,net assets at end of year,without,520543000
+2025,totals,net assets at end of year,with,956528000
+2024,operating revenues,tuition and fees,without,101077000
+2024,operating revenues,government grants,without,2226000
+2024,operating revenues,private gifts and grants,without,6958000
+2024,operating revenues,endowment support,without,47140000
+2024,operating revenues,other,without,10218000
+2024,operating revenues,sales and services of auxiliaries,without,42234000
+2024,operating revenues,net assets released from restrictions,without,2245000
+2024,operating expenses,instruction,without,73220000
+2024,operating expenses,research,without,2859000
+2024,operating expenses,academic support,without,14225000
+2024,operating expenses,student services,without,40377000
+2024,operating expenses,institutional support,without,39684000
+2024,operating expenses,auxiliary services,without,36734000
+2024,nonoperating activities,long-term investment return,without,62879000
+2024,nonoperating activities,long-term investment return,with,55184000
+2024,nonoperating activities,endowment support,without,-47140000
+2024,nonoperating activities,endowment support,with,-831000
+2024,nonoperating activities,endowment capital and other donor restricted gifts,without,4559000
+2024,nonoperating activities,endowment capital and other donor restricted gifts,with,15257000
+2024,nonoperating activities,deferred giving net,without,30173000
+2024,nonoperating activities,deferred giving net,with,-24207000
+2024,nonoperating activities,change in fair value of interest rate swap agreements,without,324000
+2024,nonoperating activities,change in postretirement benefits,without,2065000
+2024,nonoperating activities,loss on disposal of property and equipment,without,-22000
+2024,nonoperating activities,other nonoperating (loss) gain,without,-1193000
+2024,nonoperating activities,other nonoperating (loss) gain,with,52000
+2024,nonoperating activities,net assets released from restrictions,without,1000000
+2024,nonoperating activities,net assets released from restrictions,with,-3245000
+2024,totals,net assets at beginning of year,without,422138000
+2024,totals,net assets at beginning of year,with,851332000
+2024,totals,net assets at end of year,without,479782000
+2024,totals,net assets at end of year,with,893542000\
+2023,operating revenues,tuition and fees,without,95919000
+2023,operating revenues,government grants,without,2587000
+2023,operating revenues,private gifts and grants,without,6701000
+2023,operating revenues,endowment support,without,43770000
+2023,operating revenues,other,without,7468000
+2023,operating revenues,sales and services of auxiliaries,without,40116000
+2023,operating revenues,net assets released from restrictions,without,2088000
+2023,operating expenses,instruction,without,68480000
+2023,operating expenses,research,without,2071000
+2023,operating expenses,academic support,without,13410000
+2023,operating expenses,student services,without,36976000
+2023,operating expenses,institutional support,without,37640000
+2023,operating expenses,auxiliary services,without,34520000
+2023,nonoperating activities,long-term investment return,without,50453000
+2023,nonoperating activities,long-term investment return,with,27934000
+2023,nonoperating activities,endowment support,without,-43770000
+2023,nonoperating activities,endowment support,with,-863000
+2023,nonoperating activities,endowment capital and other donor restricted gifts,without,4702000
+2023,nonoperating activities,endowment capital and other donor restricted gifts,with,19871000
+2023,nonoperating activities,deferred giving net,without,134000
+2023,nonoperating activities,deferred giving net,with,2157000
+2023,nonoperating activities,change in fair value of interest rate swap agreements,without,2509000
+2023,nonoperating activities,change in postretirement benefits cost,without,1649000
+2023,nonoperating activities,loss on disposal of property and equipment,without,-9000
+2023,nonoperating activities,other nonoperating gain,without,917000
+2023,nonoperating activities,other nonoperating gain,with,3145000
+2023,nonoperating activities,redesignation of net assets,without,-2067000
+2023,nonoperating activities,redesignation of net assets,with,2067000
+2023,nonoperating activities,net assets released from restrictions,without,4813000
+2023,nonoperating activities,net assets released from restrictions,with,-6901000
+2023,totals,net assets at beginning of year,without,397255000
+2023,totals,net assets at beginning of year,with,803922000
+2023,totals,net assets at end of year,without,422138000
+2023,totals,net assets at end of year,with,851332000
+2022,operating revenues,tuition and fees,without,92171000
+2022,operating revenues,government grants,without,7503000
+2022,operating revenues,private gifts and grants,without,6858000
+2022,operating revenues,endowment support,without,41435000
+2022,operating revenues,other,without,2773000
+2022,operating revenues,sales and services of auxiliaries,without,39428000
+2022,operating revenues,net assets released from restrictions,without,1067000
+2022,operating expenses,instruction,without,63058000
+2022,operating expenses,research,without,1716000
+2022,operating expenses,academic support,without,12267000
+2022,operating expenses,student services,without,35954000
+2022,operating expenses,institutional support,without,32818000
+2022,operating expenses,auxiliary services,without,33446000
+2022,nonoperating activities,long-term investment return,without,28928000
+2022,nonoperating activities,long-term investment return,with,-58689000
+2022,nonoperating activities,endowment support,without,-41435000
+2022,nonoperating activities,endowment support,with,-586000
+2022,nonoperating activities,endowment capital and other donor restricted gifts,without,3761000
+2022,nonoperating activities,endowment capital and other donor restricted gifts,with,13870000
+2022,nonoperating activities,deferred giving net,without,-685000
+2022,nonoperating activities,deferred giving net,with,-3964000
+2022,nonoperating activities,change in fair value of interest rate swap agreements,without,6334000
+2022,nonoperating activities,change in postretirement benefits cost,without,11269000
+2022,nonoperating activities,loss on disposal of property and equipment,without,-170000
+2022,nonoperating activities,other nonoperating gain,without,1052000
+2022,nonoperating activities,net assets released from restrictions,without,3059000
+2022,nonoperating activities,net assets released from restrictions,with,-4126000
+2022,totals,net assets at beginning of year,without,373166000
+2022,totals,net assets at beginning of year,with,857417000
+2022,totals,net assets at end of year,without,397255000
+2022,totals,net assets at end of year,with,803922000
+2021,operating revenues,tuition and fees,without,84439000
+2021,operating revenues,government grants,without,4573000
+2021,operating revenues,private gifts and grants,without,7640000
+2021,operating revenues,endowment support,without,40403000
+2021,operating revenues,other,without,2563000
+2021,operating revenues,sales and services of auxiliaries,without,18354000
+2021,operating revenues,net assets released from restriction,without,1054000
+2021,operating expenses,instruction,without,56468000
+2021,operating expenses,research,without,1152000
+2021,operating expenses,academic support,without,11569000
+2021,operating expenses,student services,without,29568000
+2021,operating expenses,institutional support,without,32033000
+2021,operating expenses,auxiliary services,without,26783000
+2021,nonoperating activities,long-term investment return,without,91162000
+2021,nonoperating activities,long-term investment return,with,160502000
+2021,nonoperating activities,endowment support,without,-40403000
+2021,nonoperating activities,endowment support,with,-596000
+2021,nonoperating activities,endowment capital and other restricted gifts,without,730000
+2021,nonoperating activities,endowment capital and other restricted gifts,with,7772000
+2021,nonoperating activities,deferred giving net,without,182000
+2021,nonoperating activities,deferred giving net,with,7251000
+2021,nonoperating activities,change in fair value of interest rate swap agreements,without,4430000
+2021,nonoperating activities,change in postretirement benefits cost,without,920000
+2021,nonoperating activities,other nonoperating,without,45000
+2021,nonoperating activities,loss of defeasance of debt,without,-7112000
+2021,nonoperating activities,net assets released from restriction,without,2715000
+2021,nonoperating activities,net assets released from restriction,with,-3769000
+2021,totals,net assets at beginning of year,without,319044000
+2021,totals,net assets at beginning of year,with,686257000
+2021,totals,net assets at end of year,without,373166000
+2021,totals,net assets at end of year,with,857417000
+2020,operating revenues,tuition and fees,without,89657000
+2020,operating revenues,government grants,without,2078000
+2020,operating revenues,private gifts and grants,without,6983000
+2020,operating revenues,endowment support,without,40395000
+2020,operating revenues,other,without,3885000
+2020,operating revenues,sales and services of auxiliaries,without,31047000
+2020,operating revenues,net assets released from restriction,without,991000
+2020,operating expenses,instruction,without,64590000
+2020,operating expenses,research,without,1751000
+2020,operating expenses,academic support,without,12221000
+2020,operating expenses,student services,without,32264000
+2020,operating expenses,institutional support,without,33166000
+2020,operating expenses,auxiliary services,without,30218000
+2020,nonoperating activities,long-term investment return,without,34538000
+2020,nonoperating activities,long-term investment return,with,-4787000
+2020,nonoperating activities,endowment support,without,-40395000
+2020,nonoperating activities,endowment support,with,-613000
+2020,nonoperating activities,endowment capital and other restricted gifts,without,5158000
+2020,nonoperating activities,endowment capital and other restricted gifts,with,5916000
+2020,nonoperating activities,deferred giving net,without,5170000
+2020,nonoperating activities,deferred giving net,with,-2301000
+2020,nonoperating activities,change in fair value of interest rate swap agreements,without,-3688000
+2020,nonoperating activities,change in postretirement benefits cost,without,5411000
+2020,nonoperating activities,disposal of property and equipment,without,-507000
+2020,nonoperating activities,early retirement incentive,without,88000
+2020,nonoperating activities,other nonoperating,without,104000
+2020,nonoperating activities,net assets released from restriction,without,11309000
+2020,nonoperating activities,net assets released from restriction,with,-12300000
+2020,totals,net assets at beginning of year,without,301030000
+2020,totals,net assets at beginning of year,with,700342000
+2020,totals,net assets at end of year,without,319044000
+2020,totals,net assets at end of year,with,686257000
