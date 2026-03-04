@@ -1,3 +1,9 @@
-# Fiscal Grading Project 2026
+# FISCALIS (Fiscal Institutional Analysis & Strategy)
 
-Necessary pip packages as of 2/18/2026: pandas, matplotlib
+**Status: WIP**
+
+**Requirements**
+* `pandas`
+* `matplotlib`
+* `fredapi`
+* `python-dotenv`
